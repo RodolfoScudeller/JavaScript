@@ -1,2 +1,2 @@
 # Repositório JavaScript
-Repositório com estudo e testes JavaScript
+## Repositório com estudo e testes JavaScript
